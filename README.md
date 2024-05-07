@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Front-end Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at https://amarralii.github.io/Portfolio/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at <a href="https://amarralii.github.io/Portfolio/" target="_blank">Portfolio <a/>  to see some of the projects I've worked on.
 
 
 ### Connect with Me :
