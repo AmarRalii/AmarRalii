@@ -18,8 +18,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/amar-reda-3b6020238/" target="_blank">LinkedIn</a>
-<a href="https://t.me/amarRedaAlii" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amar-reda-3b6020238/" class="text-decoration text-white"  target="_blank">LinkedIn</a>
+<a href="https://t.me/amarRedaAlii" target="_blank">Telegram</a>
 
 <p>WhatsApp: 01276232709</p>
 
